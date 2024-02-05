@@ -17,8 +17,6 @@ $==================|==================$
 |discod.py         |discord.ui        |
 |----------------- % -----------------|
 |Code by Mindset   |Idea from rii     |
-|                  |                  |
-|                  |                  |
 $==================|==================$
 ```
 
@@ -26,4 +24,3 @@ $==================|==================$
 - [ ] 10 commands
 - [ ] discord account maker/generator
 - [ ] backup for son goku (best dbl hack bot)
-
