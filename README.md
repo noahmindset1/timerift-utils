@@ -1,6 +1,7 @@
 # timerift-utils
 
-![image](https://github.com/noahmindset1/timerift-utils/assets/157752909/f93f12f4-dd97-451b-8f8e-1f1d1b9a82b6)
+
+![standard (1)](https://github.com/noahmindset1/timerift-utils/assets/157752909/92218147-7845-4346-948e-a7874f596d18)
 
 
 a bot for utils for timerift
